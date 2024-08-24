@@ -1,6 +1,8 @@
 # Radar Inteligente
 
-## Grupo:
+## Grupo
 Geovanna Menezes
+
 Geovanna Medeiros
+
 Maria Aparecida 
